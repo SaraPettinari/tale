@@ -1,0 +1,6 @@
+[submodule "ekg_multi_query"]
+	path = ekg_multi_query
+	url = https://github.com/SaraPettinari/ekg_multi_query
+[submodule "tale_analysis"]
+	path = tale_analysis
+	url = https://github.com/SaraPettinari/tale_analysis
